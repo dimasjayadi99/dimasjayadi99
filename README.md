@@ -1,34 +1,76 @@
 <h1 align="center">Hi 👋, I'm Dimas Jayadi</h1>
-<h3 align="center">A passionate Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasjayadi99&label=Profile%20views&color=0e75b6&style=flat" alt="dimasjayadi99" /> </p>
+<h3 align="center">
+Mobile Developer specializing in Flutter, Kotlin, and FastAPI 🚀
+</h3>
 
-- 👯 I’m looking to collaborate on **IOS & Android Project**
-
-- 📫 How to reach me **dimasjayadi7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dimasjayadi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimasjayadi99" height="30" width="40" /></a>
+<p align="center">
+Building scalable Android & iOS applications with clean architecture.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>&nbsp;
-<a href="https://codeigniter.com"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/></a>&nbsp;
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>&nbsp;
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>&nbsp;
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>&nbsp;
-<a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>&nbsp;
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>&nbsp;
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>&nbsp;
-<a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/></a>
+<p align="center">
+  <a href="https://github.com/dimasjayadi99">
+    <img src="https://komarev.com/ghpvc/?username=dimasjayadi99&label=Profile%20Views&color=4c8eda&style=for-the-badge"/>
+  </a>
 </p>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=dimasjayadi99&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dimasjayadi99&theme=tokyonight)
+## 👨‍💻 About Me
+
+- 📱 Mobile Developer focused on **Flutter** & **Native Android (Kotlin)**
+- 🚀 Currently learning **FastAPI** & **Backend Development**
+- 💙 Love building clean, scalable, and maintainable applications
+- 🤝 Open to collaborating on **Flutter, Android, and Backend Projects**
+- 📫 Reach me at **dimasjayadi7@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/dimasjayadi99">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,fastapi,python,postgres,mysql,git,figma,postman,vscode,androidstudio" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=dimasjayadi99&theme=tokyonight"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=dimasjayadi99&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dimasjayadi99&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Currently Working On
+
+- 📦 Flutter Package Development
+- 📱 Flutter & Kotlin Mobile Apps
+- ⚡ FastAPI REST API
+- 🗄 PostgreSQL + SQLAlchemy
+
+---
+
+⭐️ Thanks for visiting my profile!
