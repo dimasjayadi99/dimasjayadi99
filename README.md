@@ -29,4 +29,6 @@
 <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasjayadi99&show_icons=true&locale=en&layout=compact" alt="dimasjayadi99" /></p>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=dimasjayadi99&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dimasjayadi99&theme=tokyonight)
