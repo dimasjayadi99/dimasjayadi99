@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Jayadi</h1>
 
 <h3 align="center">
-Mobile Developer specializing in Flutter, Kotlin, and FastAPI 🚀
+Mobile Developer specializing in Flutter, Kotlin 🚀
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Building scalable Android & iOS applications with clean architecture.
 ## 👨‍💻 About Me
 
 - 📱 Mobile Developer focused on **Flutter** & **Native Android (Kotlin)**
-- 🚀 Currently learning **FastAPI** & **Backend Development**
+- 🚀 Currently learning Mobile Development and **FastAPI** & **Backend Development**
 - 💙 Love building clean, scalable, and maintainable applications
 - 🤝 Open to collaborating on **Flutter, Android, and Backend Projects**
 - 📫 Reach me at **dimasjayadi7@gmail.com**
@@ -40,7 +40,7 @@ Building scalable Android & iOS applications with clean architecture.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,fastapi,python,postgres,mysql,git,figma,postman,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,fastapi,python,postgres,git,figma,postman,vscode,androidstudio" />
 
 </p>
 
