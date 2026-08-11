@@ -40,7 +40,7 @@ Building scalable Android & iOS applications with clean architecture.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,fastapi,python,postgres,git,figma,postman,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,javascript,firebase,fastify,postgres,mysql,git,figma,postman,vscode,androidstudio" />
 
 </p>
 
