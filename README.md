@@ -19,7 +19,7 @@ Building scalable Android & iOS applications with clean architecture.
 ## 👨‍💻 About Me
 
 - 📱 Mobile Developer focused on **Flutter** & **Native Android (Kotlin)**
-- 🚀 Currently learning Mobile Development and **FastAPI** & **Backend Development**
+- 🚀 Currently learning Mobile Development and **Fastify** & **Backend Development**
 - 💙 Love building clean, scalable, and maintainable applications
 - 🤝 Open to collaborating on **Flutter, Android, and Backend Projects**
 - 📫 Reach me at **dimasjayadi7@gmail.com**
