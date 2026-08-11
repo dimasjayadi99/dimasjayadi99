@@ -68,8 +68,8 @@ Building scalable Android & iOS applications with clean architecture.
 
 - 📦 Flutter Package Development
 - 📱 Flutter & Kotlin Mobile Apps
-- ⚡ FastAPI REST API
-- 🗄 PostgreSQL + SQLAlchemy
+- ⚡ Fastify REST API
+- 🗄 PostgreSQL, MySql
 
 ---
 
